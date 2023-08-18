@@ -1,4 +1,4 @@
-const bands = ["The Beatles", "The Rolling Stones", "AC/DC"];
+// const bands = ["The Beatles", "The Rolling Stones", "AC/DC"];
 
 const removeArticles = (bandName) => {
   const articles = ["a", "an", "the"];
